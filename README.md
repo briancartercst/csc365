@@ -4,3 +4,6 @@ For Sullivan CSC365 work
 from master
 
 add
+
+
+multiply
